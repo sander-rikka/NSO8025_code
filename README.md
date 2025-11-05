@@ -26,15 +26,15 @@ Autor: Sander Rikka, sander.rikka@taltech.ee
 
 # Nädal 1
 1. Eesmärk radari andmed sisse lugeda, neid joonisele panna ja neid paremini tundma õppida 
-> notebook/radar_explore.ipynb
+> notebooks/week 1/**radar_explore.ipynb**
 2. Eesmärk radari andmetest välja lugeda mõõtmisandmete kohal olevad väärtused
    3. Milline strateegia? 
       4. Mingi mõõtmist ümbritseva ala statistilised näitajad?
       5. Valitud ala piksli väärtused (vektorina, 2D)?
       6. Midagi muud - paku tunnis.
-> notebook/radardata_extract.ipynb
+> notebooks/week 1/**radardata_extract.ipynb**
 3. Eesmärk mõõtmisandmed sisse lugeda, neid graafikutel joonistada ja analüüsida 
-> notebook/measurements_explore.ipynb
+> notebooks/week 1/**measurements_explore.ipynb**
 
 | Buoy station     | Paljassaare | Vahemadal | Hülkari |
 |------------------|-------------|-----------|---------|
@@ -44,9 +44,15 @@ Autor: Sander Rikka, sander.rikka@taltech.ee
 
 # Nädal 2
 1. Töö _feature'itega_, nende graafikutel kujutamine, filtreerimine, analüüs/kirjeldamine.
+> notebooks/week 2/**feature_explore.ipynb**
 2. Esimesed treeningud.
+> notebooks/week 3/**first_regr_model.ipynb**
 
 
 # Nädal 3
 1. Mudelite treenimine. _Feature importance_. 
+> notebooks/week 3/**linear_reg_model.ipynb**
+> 
+> notebooks/week 3/**xgboos_reg_model.ipynb**
+
 2. Tulemuste kirjeldamine ja raporti tegemine. 
